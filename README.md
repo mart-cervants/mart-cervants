@@ -1,12 +1,11 @@
 ## Hi there 👋 I'm Martin Cervantes
 
-### Machine Learning and Web development enthusiast.
+### Software Dev, Web Dev & Machine Learning 👨‍💻 Lets code!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mart-cervants)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I'm currently working on building a portfolio with Web dev and ML projects.
-- 🌱 I'm currently learning Blockchain and Smart Contracts technologies.
-- 👯 I am looking to collaborate on projects that will help me improve my skills in web development and ML. 
+- 🎯 I'm currently learning Blockchain and Smart Contracts technologies.
+- 🧑‍🤝‍🧑 I am looking to collaborate on projects that will help me improve my skills in Software Development fields.
 - 📫 How to reach me: mart.cervants@gmail.com
 - ⚡ Here is my Kaggle profile: https://www.kaggle.com/martincervantes
 
