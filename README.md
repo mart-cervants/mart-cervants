@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Martin Cervantes
 
-### Software Dev, Web Dev & Machine Learning 👨‍💻 Lets code!
+###  Data Eng & Machine Learning 👨‍💻
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mart-cervants)](https://github.com/ryo-ma/github-profile-trophy)
 
